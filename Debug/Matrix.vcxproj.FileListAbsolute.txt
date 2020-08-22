@@ -1,0 +1,2 @@
+D:\c++\Matrix\Debug\Matrix.exe
+D:\c++\Matrix\Debug\Matrix.pdb
